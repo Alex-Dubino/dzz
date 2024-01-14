@@ -1,0 +1,29 @@
+[
+  {
+    "img": "./burgerCards1.png ",
+    "price": "689₽",
+    "title": "Мясная бомба",
+    "massa": "520г",
+    "confCost": "689",
+    "id": "1",
+    "count": 1
+  },
+  {
+    "img": "./burgerCards2.png ",
+    "price": "550₽",
+    "title": "Супер сырный",
+    "massa": "512г",
+    "confCost": "550",
+    "id": "2",
+    "count": 1
+  },
+  {
+    "img": "./burgerCards3.png ",
+    "price": "639₽",
+    "title": "Сытный",
+    "massa": "580г",
+    "confCost": "639",
+    "id": "3",
+    "count": 1
+  }
+]
